@@ -2,7 +2,7 @@
 
 Create a scene with a UI for OpenGL and save it in a file.
 
-The project was made on linux, I did not test it on Windows.
+The project was made on linux, I have not tested it on Windows.
 
 ![demo](<data/demo.png>)
 
