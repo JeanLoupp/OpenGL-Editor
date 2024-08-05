@@ -4,12 +4,16 @@ Create a scene with a UI for OpenGL and save it in a file.
 
 The project was made on linux, I did not tested it on Windows.
 
+![demo](<data/demo.png>)
+
 ## First build
 
+```
 mkdir build
 cmake -B build
-
 make -C build
+./MyProject
+```
 
 ## Dependencies
 
