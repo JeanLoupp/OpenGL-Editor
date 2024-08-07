@@ -174,6 +174,8 @@ int main() {
     ImGui_ImplGlfw_Shutdown();
     ImGui::DestroyContext();
 
+    glDeleteProgram(shaderProgram);
+
     glfwDestroyWindow(window);
     glfwTerminate();
     return 0;
